@@ -57,9 +57,11 @@ jobs:
 
       - name: Run CrawlXSS
         if: steps.get_target.outputs.target != ''
+        timeout-minutes: 300
+        continue-on-error: true
         run: |
           echo "Scanning target: ${{ steps.get_target.outputs.target }}"
-          ./crawlxss -t "${{ steps.get_target.outputs.target }}" -e -w -o "results/${{ steps.get_target.outputs.safe_name }}.json" || true
+          timeout 5h ./crawlxss -t "${{ steps.get_target.outputs.target }}" -e -w -o "results/${{ steps.get_target.outputs.safe_name }}.json" || true
 
       - name: Mark target as scanned
         if: steps.get_target.outputs.target != ''
