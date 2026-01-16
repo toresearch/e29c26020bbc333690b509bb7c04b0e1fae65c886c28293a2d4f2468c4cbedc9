@@ -1,0 +1,15 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "http://edge.tenants.cic-bug-bounty.auth0app.com",
+    "https://wt.cic-bug-bounty.auth0app.com",
+    "https://bugcrowd-3467-cd-7nqoz3b2aapksavf.edge.tenants.cic-bug-bounty.auth0app.com",
+    "https://bugcrowd-835.cic-bug-bounty.auth0app.com",
+    "https://config.cic-bug-bounty.auth0app.com",
+    "https://manage.cic-bug-bounty.auth0app.com"
+  ]
+}
