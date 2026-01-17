@@ -1,0 +1,30 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://trafficjunky.com",
+    "https://document-review.trafficjunky.com",
+    "https://uat1-mp3vel.trafficjunky.com",
+    "https://mta.e.trafficjunky.com",
+    "https://analytics.trafficjunky.com",
+    "https://e.trafficjunky.com",
+    "https://media.trafficjunky.com",
+    "https://static.trafficjunky.com",
+    "https://click.e.trafficjunky.com",
+    "https://pt.trafficjunky.com",
+    "https://www.trafficjunky.com",
+    "https://api.trafficjunky.com",
+    "https://members.trafficjunky.com",
+    "https://wwww.trafficjunky.com",
+    "https://advertiser.trafficjunky.com",
+    "https://blog.trafficjunky.com",
+    "https://cd1-gandalf.trafficjunky.com",
+    "https://uat0-gandalf.trafficjunky.com",
+    "https://url.trafficjunky.com",
+    "https://image.e.trafficjunky.com",
+    "https://webassets.trafficjunky.com"
+  ]
+}
