@@ -1,0 +1,18 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://chimecard.com",
+    "https://blog.chimecard.com",
+    "https://wh.chimecard.com",
+    "https://api.chimecard.com",
+    "https://cachet.chimecard.com",
+    "https://support.chimecard.com",
+    "https://api2.chimecard.com",
+    "https://www.chimecard.com",
+    "https://email.mg.chimecard.com"
+  ]
+}
