@@ -1,0 +1,14 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://ga-orange.dev.chimepayments.com",
+    "https://ga-orange.prod.chimepayments.com",
+    "https://ga-orange.qa.chimepayments.com",
+    "https://ga-orange.cert.chimepayments.com",
+    "https://ga-orange.dev5.chimepayments.com"
+  ]
+}
