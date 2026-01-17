@@ -1,0 +1,24 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://e2.canva.tech",
+    "https://ut.canva.tech",
+    "https://button-demo.canva.tech",
+    "https://build-reports.canva.tech",
+    "https://labs.canva.tech",
+    "https://pipeline-signing.ci.canva.tech",
+    "https://playroom.canva.tech",
+    "https://ui.canva.tech",
+    "https://performance.canva.tech",
+    "https://docsdemo.canva.tech",
+    "https://desktop.canva.tech",
+    "https://page-testing.canva.tech",
+    "https://values.canva.tech",
+    "https://docs.canva.tech",
+    "https://test.canva.tech"
+  ]
+}
