@@ -1,0 +1,16 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://gov.bugcrowd.net",
+    "https://assets.gov.bugcrowd.net",
+    "https://login.hackers.gov.bugcrowd.net",
+    "https://hooks.gov.bugcrowd.net",
+    "https://login.gov.bugcrowd.net",
+    "https://api.gov.bugcrowd.net",
+    "https://tracker.gov.bugcrowd.net"
+  ]
+}
