@@ -1,0 +1,30 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://chmfin.com",
+    "https://tuner-config-public.prod-ext.chmfin.com",
+    "https://chime-certificate-pinning.qa-ext.chmfin.com",
+    "https://cross-sell-partners.qa-ext.chmfin.com",
+    "https://lending-public-documents.prod-ext.chmfin.com",
+    "https://chime-mobile-assets.prod-ext.chmfin.com",
+    "https://chime-public-assets.prod-ext.chmfin.com",
+    "https://enrollment-web-app-assets.qa-ext.chmfin.com",
+    "https://chime-com-assets.prod-ext.chmfin.com",
+    "https://chm-merchants.prod-ext.chmfin.com",
+    "https://chime-certificate-pinning.prod-ext.chmfin.com",
+    "https://chm-web-app-assets.qa-ext.chmfin.com",
+    "https://chime-public-assets.test-ext.chmfin.com",
+    "https://marketing-tags.prod-ext.chmfin.com",
+    "https://chm-web-app-assets.prod-ext.chmfin.com",
+    "https://ga-blue.prod.chmfin.com",
+    "https://finplat-api-integration-test.dev5.finplat.chmfin.com",
+    "https://chm-merchants.qa-ext.chmfin.com",
+    "https://cross-sell-partners.prod-ext.chmfin.com",
+    "https://enrollment-web-app-assets.prod-ext.chmfin.com",
+    "https://chime-com-assets.qa-ext.chmfin.com"
+  ]
+}
