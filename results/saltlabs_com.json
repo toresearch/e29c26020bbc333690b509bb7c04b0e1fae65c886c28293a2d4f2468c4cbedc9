@@ -1,0 +1,15 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://saltlabs.com",
+    "https://app.staging.saltlabs.com",
+    "https://www.saltlabs.com",
+    "https://help.saltlabs.com",
+    "https://status.saltlabs.com",
+    "https://app.saltlabs.com"
+  ]
+}
