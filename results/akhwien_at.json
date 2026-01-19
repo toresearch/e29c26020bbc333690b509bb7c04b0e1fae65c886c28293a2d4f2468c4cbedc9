@@ -1,0 +1,27 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://akhwien.at",
+    "https://da2.akhwien.at",
+    "https://securesmscallbackservice.akhwien.at",
+    "https://webmail.akhwien.at",
+    "https://arex.akhwien.at",
+    "https://patientenportal.akhwien.at",
+    "https://docexchange.akhwien.at",
+    "https://emm.akhwien.at",
+    "https://termin.akhwien.at",
+    "https://evasys.akhwien.at",
+    "https://rdg.akhwien.at",
+    "https://grvpn1ext.akhwien.at",
+    "https://www.akhwien.at",
+    "https://citrix.akhwien.at",
+    "https://bauprojekte.akhwien.at",
+    "https://www.bauprojekte.akhwien.at",
+    "https://muw-dokumente-3091.esb.akhwien.at",
+    "https://muw-katalogsdaten-1514.esb.akhwien.at"
+  ]
+}
