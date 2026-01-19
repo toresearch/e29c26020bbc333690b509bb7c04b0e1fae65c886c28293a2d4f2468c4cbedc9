@@ -1,0 +1,12 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://dojo.me",
+    "https://www.dojo.me",
+    "https://admin.dojo.me"
+  ]
+}
