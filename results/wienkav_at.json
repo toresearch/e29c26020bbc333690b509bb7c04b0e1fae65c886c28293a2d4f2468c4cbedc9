@@ -1,0 +1,22 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "http://wienkav.at",
+    "https://bp.wienkav.at",
+    "https://webmail.wienkav.at",
+    "https://grvpn2ext.wienkav.at",
+    "https://ribm.wienkav.at",
+    "https://info.wienkav.at",
+    "https://grvpn.wienkav.at",
+    "https://remote.wienkav.at",
+    "https://pki.wienkav.at",
+    "https://testdatagate.wienkav.at",
+    "https://grvpn1ext.wienkav.at",
+    "https://datagate.wienkav.at",
+    "https://ma70bp.wienkav.at"
+  ]
+}
