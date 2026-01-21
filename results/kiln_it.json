@@ -1,0 +1,26 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://kiln.it",
+    "http://heathrow.live.kiln.it",
+    "http://iied.live.kiln.it",
+    "http://roads.live.kiln.it",
+    "https://data.kiln.it",
+    "http://wri.live.kiln.it",
+    "http://goldmap.live.kiln.it",
+    "http://greenhome.live.kiln.it",
+    "http://ipcc.live.kiln.it",
+    "http://carbontracker.live.kiln.it",
+    "http://birthrights.live.kiln.it",
+    "http://mobility.britishcouncil.kiln.it",
+    "http://scidev.live.kiln.it",
+    "http://hardtimes.live.kiln.it",
+    "http://ippf.live.kiln.it",
+    "http://lse.live.kiln.it",
+    "https://www.kiln.it"
+  ]
+}
