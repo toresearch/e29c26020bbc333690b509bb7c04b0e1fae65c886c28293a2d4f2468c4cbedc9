@@ -1,0 +1,16 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://movilepay.com",
+    "https://e.allin.movilepay.com",
+    "https://e.allin.allin.movilepay.com",
+    "https://img.allin.movilepay.com",
+    "https://img.allin.allin.movilepay.com",
+    "https://r.allin.movilepay.com",
+    "http://www.movilepay.com"
+  ]
+}
