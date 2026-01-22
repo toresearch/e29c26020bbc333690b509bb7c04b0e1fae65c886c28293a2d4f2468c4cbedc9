@@ -1,0 +1,32 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://plannthat.com",
+    "https://email.plannthat.com",
+    "https://click.plannthat.com",
+    "https://media-src.plannthat.com",
+    "https://app.plannthat.com",
+    "https://cms-api.plannthat.com",
+    "https://staging.plannthat.com",
+    "https://share.plannthat.com",
+    "https://email.mail.plannthat.com",
+    "https://app-api.plannthat.com",
+    "https://ai-api.staging.plannthat.com",
+    "https://media-tn.plannthat.com",
+    "https://mp-proxy.plannthat.com",
+    "https://www.plannthat.com",
+    "https://help.plannthat.com",
+    "https://cdn-edm.plannthat.com",
+    "https://api-prod.plannthat.com",
+    "https://webhooks.plannthat.com",
+    "https://dashboard.plannthat.com",
+    "https://ai-api.plannthat.com",
+    "https://develop.plannthat.com",
+    "https://webapp-cdn.plannthat.com",
+    "https://ai-api.dev.plannthat.com"
+  ]
+}
