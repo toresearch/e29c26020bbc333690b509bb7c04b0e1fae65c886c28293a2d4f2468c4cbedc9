@@ -1,0 +1,21 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://genoapay.com",
+    "http://api.dev.genoapay.com",
+    "http://checkout.dev.genoapay.com",
+    "https://app.dev.genoapay.com",
+    "https://get.genoapay.com",
+    "https://privacy.genoapay.com",
+    "http://zendesk1.genoapay.com",
+    "https://smetrics.genoapay.com",
+    "https://www.genoapay.com",
+    "http://autodiscover.genoapay.com",
+    "https://metrics.genoapay.com",
+    "https://help.genoapay.com"
+  ]
+}
