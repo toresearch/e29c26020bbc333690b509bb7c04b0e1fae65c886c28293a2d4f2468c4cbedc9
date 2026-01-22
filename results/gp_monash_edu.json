@@ -1,0 +1,20 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://paw.gp.monash.edu",
+    "https://byod-exgw-staff-fw1.gp.monash.edu",
+    "https://paw-t0.gp.monash.edu",
+    "https://od-staff-soe.gp.monash.edu",
+    "https://paw-exgw-t1-fw1.gp.monash.edu",
+    "https://od-ext.gp.monash.edu",
+    "https://od-staff.gp.monash.edu",
+    "https://paw-t1.gp.monash.edu",
+    "https://paw-exgw-t0-fw1.gp.monash.edu",
+    "https://vpn.gp.monash.edu",
+    "https://od-student.gp.monash.edu"
+  ]
+}
