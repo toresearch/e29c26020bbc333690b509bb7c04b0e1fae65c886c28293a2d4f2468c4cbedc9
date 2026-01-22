@@ -1,0 +1,13 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://genoapay.co.nz",
+    "https://www.genoapay.co.nz",
+    "http://autodiscover.genoapay.co.nz",
+    "https://email.genoapay.co.nz"
+  ]
+}
