@@ -1,0 +1,18 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://latitudefinancial.co.nz",
+    "https://www.latitudefinancial.co.nz",
+    "https://checkout.latitudefinancial.co.nz",
+    "https://income.latitudefinancial.co.nz",
+    "https://servicecentre.latitudefinancial.co.nz",
+    "https://metrics.latitudefinancial.co.nz",
+    "https://smetrics.latitudefinancial.co.nz",
+    "https://privacy.latitudefinancial.co.nz",
+    "https://kiwibank.portal.latitudefinancial.co.nz"
+  ]
+}
