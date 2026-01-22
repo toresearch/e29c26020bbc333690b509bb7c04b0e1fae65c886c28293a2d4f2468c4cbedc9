@@ -1,0 +1,27 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://latitudepay.com",
+    "https://forms.latitudepay.com",
+    "http://api.dev.latitudepay.com",
+    "http://www.sg.latitudepay.com",
+    "https://k2.my.latitudepay.com",
+    "http://checkout.dev.latitudepay.com",
+    "https://smetrics.latitudepay.com",
+    "https://mykarma.my.latitudepay.com",
+    "https://sg.latitudepay.com",
+    "https://metrics.latitudepay.com",
+    "https://support.latitudepay.com",
+    "https://my.latitudepay.com",
+    "https://privacy.latitudepay.com",
+    "https://docs.sg.latitudepay.com",
+    "http://app.dev.latitudepay.com",
+    "https://www.latitudepay.com",
+    "https://merchant.my.latitudepay.com",
+    "https://stores.my.latitudepay.com"
+  ]
+}
