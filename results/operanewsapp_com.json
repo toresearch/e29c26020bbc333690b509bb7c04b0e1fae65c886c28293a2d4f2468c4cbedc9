@@ -1,0 +1,22 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://operanewsapp.com",
+    "https://covid-singa.operanewsapp.com",
+    "https://www-test.operanewsapp.com",
+    "https://covid19-ams.operanewsapp.com",
+    "https://covid-ams-dev.operanewsapp.com",
+    "https://wap.operanewsapp.com",
+    "https://demo.operanewsapp.com",
+    "https://www.operanewsapp.com",
+    "https://sea.operanewsapp.com",
+    "https://covid-ams.operanewsapp.com",
+    "https://sea-test.operanewsapp.com",
+    "https://af.operanewsapp.com",
+    "https://covid19-singa.operanewsapp.com"
+  ]
+}
