@@ -1,0 +1,15 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://apex-football.com",
+    "https://predictor.apex-football.com",
+    "https://www.apex-football.com",
+    "https://lite.apex-football.com",
+    "https://ssltest.apex-football.com",
+    "https://test.apex-football.com"
+  ]
+}
