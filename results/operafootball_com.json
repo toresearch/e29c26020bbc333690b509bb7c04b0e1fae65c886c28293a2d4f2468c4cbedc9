@@ -1,0 +1,22 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://operafootball.com",
+    "https://lite.operafootball.com",
+    "https://doc.operafootball.com",
+    "https://staging-innerweb.operafootball.com",
+    "https://staging.operafootball.com",
+    "https://test-front.operafootball.com",
+    "https://www.operafootball.com",
+    "https://lite2.operafootball.com",
+    "https://test.operafootball.com",
+    "https://api.operafootball.com",
+    "https://act.operafootball.com",
+    "https://cms.operafootball.com",
+    "https://wap.operafootball.com"
+  ]
+}
