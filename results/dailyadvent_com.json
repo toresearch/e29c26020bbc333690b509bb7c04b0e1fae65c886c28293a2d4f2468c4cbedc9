@@ -1,0 +1,28 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://dailyadvent.com",
+    "https://img.dailyadvent.com",
+    "https://m.dailyadvent.com",
+    "https://cdn-af.dailyadvent.com",
+    "https://demo.dailyadvent.com",
+    "https://news-af.dailyadvent.com",
+    "https://static.dailyadvent.com",
+    "https://lite.dailyadvent.com",
+    "https://pps-log.dailyadvent.com",
+    "https://pps-token.dailyadvent.com",
+    "https://news-id.dailyadvent.com",
+    "https://img-transcoder-src.dailyadvent.com",
+    "https://www.dailyadvent.com",
+    "http://cdn.dailyadvent.com",
+    "https://news-in.dailyadvent.com",
+    "https://topsites.dailyadvent.com",
+    "https://news-eg.dailyadvent.com",
+    "https://news-us.dailyadvent.com",
+    "https://res-h5.dailyadvent.com"
+  ]
+}
