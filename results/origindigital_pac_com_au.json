@@ -1,0 +1,19 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "http://cdn-staging.origindigital-pac.com.au",
+    "http://connect.origindigital-pac.com.au",
+    "https://frontline.origindigital-pac.com.au",
+    "http://id-preprod.origindigital-pac.com.au",
+    "http://staging-connect.origindigital-pac.com.au",
+    "https://staticsite-cdn-staging.origindigital-pac.com.au",
+    "https://statuspage.origindigital-pac.com.au",
+    "https://assets-digital.origindigital-pac.com.au",
+    "https://api-prod.origindigital-pac.com.au",
+    "http://digital.origindigital-pac.com.au"
+  ]
+}
