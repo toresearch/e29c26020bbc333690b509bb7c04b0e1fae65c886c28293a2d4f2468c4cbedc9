@@ -1,0 +1,31 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://jobstreet.com.sg",
+    "https://reviews.jobstreet.com.sg",
+    "https://www.jobstreet.com.sg",
+    "https://collect.jobstreet.com.sg",
+    "https://gskcareers.jobstreet.com.sg",
+    "https://m.jobstreet.com.sg",
+    "https://resetpassword.jobstreet.com.sg",
+    "https://careers-gov-jobs.jobstreet.com.sg",
+    "https://somtrdc.jobstreet.com.sg",
+    "https://careerfair.jobstreet.com.sg",
+    "https://careers.jobstreet.com.sg",
+    "https://asiacareerfair.jobstreet.com.sg",
+    "https://help.jobstreet.com.sg",
+    "https://myjobstreet.jobstreet.com.sg",
+    "https://tags.jobstreet.com.sg",
+    "https://myjobstreet-id.jobstreet.com.sg",
+    "https://careers-gov-search.jobstreet.com.sg",
+    "https://job-search.jobstreet.com.sg",
+    "https://myjs-stat.jobstreet.com.sg",
+    "https://siva.jobstreet.com.sg",
+    "https://hi-api.jobstreet.com.sg",
+    "https://m-id.jobstreet.com.sg"
+  ]
+}
