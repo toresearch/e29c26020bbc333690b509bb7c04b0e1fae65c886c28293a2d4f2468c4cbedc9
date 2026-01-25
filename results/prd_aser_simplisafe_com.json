@@ -1,0 +1,20 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://beta-hub.eks.ext.app.us-east-1.prd.aser.simplisafe.com",
+    "https://hux.eks.ext.app.us-east-1.prd.aser.simplisafe.com",
+    "https://app-hub-api.eks.ext.app.us-east-1.prd.aser.simplisafe.com",
+    "https://socketlink.eks.ext.app.us-east-1.prd.aser.simplisafe.com",
+    "https://socketlink.us-east-1.prd.aser.simplisafe.com",
+    "https://telegram.prd.aser.simplisafe.com",
+    "https://snoke.eks.ext.app.us-east-1.prd.aser.simplisafe.com",
+    "https://app-hub.prd.aser.simplisafe.com",
+    "https://location-grant-authorizations.eks.ext.app.us-east-1.prd.aser.simplisafe.com",
+    "https://socketlink.prd.aser.simplisafe.com",
+    "https://telegram.eks.ext.app.us-east-1.prd.aser.simplisafe.com"
+  ]
+}
