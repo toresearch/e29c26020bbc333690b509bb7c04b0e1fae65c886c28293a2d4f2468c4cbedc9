@@ -1,0 +1,14 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://certsynonprod.com",
+    "http://autodiscover.certsynonprod.com",
+    "https://hirer.certsynonprod.com",
+    "https://www.certsynonprod.com",
+    "https://app.certsynonprod.com"
+  ]
+}
