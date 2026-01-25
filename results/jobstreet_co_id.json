@@ -1,0 +1,29 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://jobstreet.co.id",
+    "https://myjobstreet-id.jobstreet.co.id",
+    "https://bebasdrama.jobstreet.co.id",
+    "https://help.jobstreet.co.id",
+    "https://m-id.jobstreet.co.id",
+    "https://www.jobstreet.co.id",
+    "https://careerfair.jobstreet.co.id",
+    "https://resetpassword.jobstreet.co.id",
+    "https://siva.jobstreet.co.id",
+    "https://m.jobstreet.co.id",
+    "https://somtrdc.jobstreet.co.id",
+    "https://seekmax.jobstreet.co.id",
+    "https://hi-api.jobstreet.co.id",
+    "https://careers.jobstreet.co.id",
+    "https://collect.jobstreet.co.id",
+    "https://reviews.jobstreet.co.id",
+    "https://tags.jobstreet.co.id",
+    "https://video.jobstreet.co.id",
+    "https://myjobstreet.jobstreet.co.id",
+    "https://job-search.jobstreet.co.id"
+  ]
+}
