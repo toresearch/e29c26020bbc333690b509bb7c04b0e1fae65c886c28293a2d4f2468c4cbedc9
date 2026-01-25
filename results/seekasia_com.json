@@ -1,0 +1,16 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://seekasia.com",
+    "https://sg1-vpngw01.seekasia.com",
+    "https://www.seekasia.com",
+    "https://vpn.seekasia.com",
+    "https://api.seekasia.com",
+    "https://staging.seekasia.com",
+    "https://www.staging.seekasia.com"
+  ]
+}
