@@ -1,0 +1,17 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://certsy.com",
+    "https://admin.certsy.com",
+    "https://hirer.certsy.com",
+    "https://www.certsy.com",
+    "https://auth.certsy.com",
+    "https://help.certsy.com",
+    "http://autodiscover.certsy.com",
+    "https://app.certsy.com"
+  ]
+}
