@@ -1,0 +1,15 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "http://web-staging.sol-data.com",
+    "https://dtp-1.staging.sol-data.com",
+    "http://web.sol-data.com",
+    "https://js.sol-data.com",
+    "https://dt-receiver.staging.sol-data.com",
+    "http://api-staging.sol-data.com"
+  ]
+}
