@@ -1,0 +1,12 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://accounts.realestate.com.au",
+    "https://m.settings.accounts.realestate.com.au",
+    "https://settings.accounts.realestate.com.au"
+  ]
+}
