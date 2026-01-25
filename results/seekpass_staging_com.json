@@ -1,0 +1,11 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://seekpass-staging.com",
+    "https://auth.seekpass-staging.com"
+  ]
+}
