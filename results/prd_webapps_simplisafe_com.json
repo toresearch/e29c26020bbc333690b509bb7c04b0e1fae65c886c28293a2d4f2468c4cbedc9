@@ -1,0 +1,15 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://webapp.eks.ext.app.us-east-1.prd.webapps.simplisafe.com",
+    "https://webapp.prd.webapps.simplisafe.com",
+    "https://mfa.prd.webapps.simplisafe.com",
+    "https://web-mfa.eks.ext.app.us-east-1.prd.webapps.simplisafe.com",
+    "https://activation.prd.webapps.simplisafe.com",
+    "https://janus-app.eks.ext.app.us-east-1.prd.webapps.simplisafe.com"
+  ]
+}
