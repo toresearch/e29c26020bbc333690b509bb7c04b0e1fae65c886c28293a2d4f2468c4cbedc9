@@ -1,0 +1,23 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://104-25-227-166.mobile.uscc.net",
+    "http://1-63-227-166.mobile.uscc.net",
+    "https://104-24-227-166.mobile.uscc.net",
+    "https://105-25-227-166.mobile.uscc.net",
+    "https://101-35-227-166.mobile.uscc.net",
+    "https://100-38-226-166.mobile.uscc.net",
+    "https://ws.uscc.net",
+    "https://1-11-226-166.mobile.uscc.net",
+    "https://101-25-227-166.mobile.uscc.net",
+    "https://1-66-226-166.mobile.uscc.net",
+    "https://100-30-227-166.mobile.uscc.net",
+    "https://mdm.uscc.net",
+    "https://10-19-227-166.mobile.uscc.net",
+    "http://101-38-226-166.mobile.uscc.net"
+  ]
+}
