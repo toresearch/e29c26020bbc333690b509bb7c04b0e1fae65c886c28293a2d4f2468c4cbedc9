@@ -1,0 +1,18 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://niumba.com",
+    "https://www.niumba.com",
+    "https://image.news.niumba.com",
+    "https://ayuda.niumba.com",
+    "https://images.niumba.com",
+    "http://pages.email.niumba.com",
+    "http://click.email.niumba.com",
+    "http://view.email.niumba.com",
+    "https://image.email.niumba.com"
+  ]
+}
