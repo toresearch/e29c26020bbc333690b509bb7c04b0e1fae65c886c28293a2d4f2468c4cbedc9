@@ -1,0 +1,28 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://website.bokuntest.com",
+    "https://beanstalk-test-app.bokuntest.com",
+    "https://test.bokuntest.com",
+    "https://api.bokuntest.com",
+    "https://active.bokuntest.com",
+    "https://vpn.bokuntest.com",
+    "https://selfservice.bokuntest.com",
+    "https://widgets.bokuntest.com",
+    "https://u003e.bokuntest.com",
+    "https://bookings.bokuntest.com",
+    "https://wid.bokuntest.com",
+    "https://nvirginia-mezzoforte-sandbox.bokuntest.com",
+    "https://extranet.bokuntest.com",
+    "https://sibelco.bokuntest.com",
+    "https://soketi.bokuntest.com",
+    "https://payments.bokuntest.com",
+    "https://bookingarea.bokuntest.com",
+    "https://changelog.bokuntest.com",
+    "https://appstore.bokuntest.com"
+  ]
+}
