@@ -1,0 +1,21 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://mapmy-api-docs.api.ua.com",
+    "https://record.api.ua.com",
+    "https://integ-challenges.api.ua.com",
+    "https://consent.api.ua.com",
+    "http://dataseries.api.ua.com",
+    "http://fitness-session-mfp.api.ua.com",
+    "https://mobile-config.api.ua.com",
+    "https://media.api.ua.com",
+    "http://mapmyfitness.api.ua.com",
+    "https://uar-web-static.api.ua.com",
+    "https://uarun-mobile.api.ua.com",
+    "http://mapmyrun.api.ua.com"
+  ]
+}
