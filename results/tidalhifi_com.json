@@ -1,0 +1,17 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://tidalhifi.com",
+    "https://www.tidalhifi.com",
+    "https://tracking.tidalhifi.com",
+    "https://api.tidalhifi.com",
+    "https://listen.tidalhifi.com",
+    "https://go.tidalhifi.com",
+    "https://images.tidalhifi.com",
+    "https://my.tidalhifi.com"
+  ]
+}
