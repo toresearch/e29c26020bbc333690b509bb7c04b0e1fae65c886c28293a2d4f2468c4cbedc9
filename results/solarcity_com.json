@@ -1,0 +1,21 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://websocket-prod.scsg.solarcity.com",
+    "https://login.solarcity.com",
+    "https://api.solarcity.com",
+    "https://warp.solarcity.com",
+    "http://isapi.solarcity.com",
+    "https://api-test.solarcity.com",
+    "https://secure-test.solarcity.com",
+    "https://ws-gw.scsg.solarcity.com",
+    "https://secure.solarcity.com",
+    "https://gw.solarcity.com",
+    "https://prod-gw.scsg.solarcity.com",
+    "https://solarguard.solarcity.com"
+  ]
+}
