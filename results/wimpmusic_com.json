@@ -1,0 +1,16 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://play.wimpmusic.com",
+    "https://embedded.wimpmusic.com",
+    "https://resources.wimpmusic.com",
+    "https://images.wimpmusic.com",
+    "https://play-next.wimpmusic.com",
+    "https://go.wimpmusic.com",
+    "https://api.wimpmusic.com"
+  ]
+}
