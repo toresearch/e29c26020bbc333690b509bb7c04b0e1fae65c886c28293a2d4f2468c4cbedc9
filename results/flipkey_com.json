@@ -1,0 +1,23 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://flipkey.com",
+    "http://images3.flipkey.com",
+    "http://secure.flipkey.com",
+    "https://helpcenter.flipkey.com",
+    "http://origin-www.flipkey.com",
+    "http://feeds.flipkey.com",
+    "https://www.flipkey.com",
+    "http://ws.flipkey.com",
+    "http://help.flipkey.com",
+    "http://images4.flipkey.com",
+    "http://blog.flipkey.com",
+    "https://resources.secure2.flipkey.com",
+    "http://data.flipkey.com",
+    "http://images1.flipkey.com"
+  ]
+}
