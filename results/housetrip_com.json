@@ -1,0 +1,18 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://housetrip.com",
+    "https://image.email.housetrip.com",
+    "https://images.housetrip.com",
+    "http://view.email.housetrip.com",
+    "https://www.housetrip.com",
+    "http://click.email.housetrip.com",
+    "https://resources.housetrip.com",
+    "http://pages.email.housetrip.com",
+    "http://er.housetrip.com"
+  ]
+}
