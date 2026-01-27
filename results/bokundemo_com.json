@@ -1,0 +1,21 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://changelog.bokundemo.com",
+    "https://api.bokundemo.com",
+    "https://beanstalk-test-app.bokundemo.com",
+    "https://bookings.bokundemo.com",
+    "https://extranet.bokundemo.com",
+    "https://sibelco.bokundemo.com",
+    "https://website.bokundemo.com",
+    "https://appstore.bokundemo.com",
+    "https://bookingarea.bokundemo.com",
+    "https://payments.bokundemo.com",
+    "https://wid.bokundemo.com",
+    "https://widgets.bokundemo.com"
+  ]
+}
