@@ -1,0 +1,15 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://canusacps.com",
+    "https://www.canusacps.com",
+    "https://distributors.canusacps.com",
+    "https://hbe.canusacps.com",
+    "https://ww2.canusacps.com",
+    "https://www.hbe.canusacps.com"
+  ]
+}
