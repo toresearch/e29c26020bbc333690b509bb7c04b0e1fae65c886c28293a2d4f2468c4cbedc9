@@ -1,0 +1,16 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://transfersfile-integration.xfiplatform.com",
+    "https://gw-act-int.xfiplatform.com",
+    "https://transfersfile-staging.xfiplatform.com",
+    "https://transfersfile.xfiplatform.com",
+    "https://activation-ext.xfiplatform.com",
+    "https://gw-act.xfiplatform.com",
+    "https://gw-act-stage.xfiplatform.com"
+  ]
+}
