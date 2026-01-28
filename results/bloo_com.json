@@ -1,0 +1,15 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://bloo.com",
+    "https://www.bloo.com",
+    "https://qr-spa-moments.bloo.com",
+    "https://www.qr-spa-moments.bloo.com",
+    "https://qr-toilet-blocks.bloo.com",
+    "https://www.qr-toilet-blocks.bloo.com"
+  ]
+}
