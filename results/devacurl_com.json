@@ -1,0 +1,25 @@
+{
+  "get_params": null,
+  "get_reflection": null,
+  "payload": "\"\u003e\u003cmaheer\u003e",
+  "post_params": null,
+  "post_reflection": null,
+  "targets": [
+    "https://devacurl.com",
+    "https://staging.devacurl.com",
+    "https://finder2.devacurl.com",
+    "https://lms.devacurl.com",
+    "https://survey.devacurl.com",
+    "https://staging.blog.devacurl.com",
+    "https://checkout.devacurl.com",
+    "http://pro-prod.devacurl.com",
+    "https://www.devacurl.com",
+    "https://images.devacurl.com",
+    "https://pblog.devacurl.com",
+    "http://prod.devacurl.com",
+    "http://status.devacurl.com",
+    "https://api-prod.devacurl.com",
+    "https://finder.devacurl.com",
+    "http://cdn.devacurl.com"
+  ]
+}
